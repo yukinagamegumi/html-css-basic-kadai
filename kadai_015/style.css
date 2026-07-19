@@ -1,10 +1,9 @@
-h2{
-  font-size: 20px;
+body {
   text-align: center;
   font-family: "Arial", "Meiryo", sans-serif;
 }
-p {
-  text-align: center;
+html {
+  font-size: 20px;
 }
 .blue{
   color: skyblue;
