@@ -58,11 +58,10 @@
   left: 0;
 }
 #bottom-child02 {
-  left: 50%;
-  transform: translateX(-50%);
+  left: 200px;
+  right: 200px;
 }
 #bottom-child03 {
-  left: 100%;
-  transform: translateX(-100%);
+  left: 400px;
 }
 
